@@ -90,6 +90,9 @@ python -m streamlit run app.py
 - F1-score: 0.74
 
 ---
+## 🖥️ App Preview
+
+![App Screenshot](assets/app.png)
 
 ## 🔗 Author
 
