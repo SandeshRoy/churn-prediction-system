@@ -83,11 +83,11 @@ python -m streamlit run app.py
 
 ---
 
-## 📈 Results
-
-* Built a classification model to predict churn
-* Identified key factors influencing customer churn
-* Successfully deployed model as a web app
+## 📈 Model Performance
+- Accuracy: 0.84
+- Precision: 0.78
+- Recall: 0.70
+- F1-score: 0.74
 
 ---
 
